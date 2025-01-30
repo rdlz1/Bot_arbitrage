@@ -21,8 +21,8 @@ A Python-based trading bot that utilizes Binance’s REST and WebSocket APIs to 
    pip install -r requirements.txt
     
 3. **Configure Environment**  
-Copy .env_template to .env.
-Update the required fields (API keys, symbol pairs, thresholds).
+- Copy .env_template to .env
+- Update the required fields (API keys, symbol pairs, thresholds)
 
 4. **Run the Bot**  
    ```bash
