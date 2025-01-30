@@ -4,6 +4,7 @@
 # Exclude log files
 *.log
 *.json
+
 # Exclude compiled Python files
 __pycache__/
 *.pyc
